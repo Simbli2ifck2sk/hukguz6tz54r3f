@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- w list
 local WHITELIST = {
-    ["justsigma2crazy"] = true,
+    ["justsigm2crazy"] = true,
     ["79cyxz"] = true,
     ["egsefgszseg"] = true,
     ["21vanush"] = true,
