@@ -15,7 +15,9 @@ local WHITELIST = {
     ["ghhvv573"] = true,
     ["05shifty"] = true,
     ["madalinboss659"] = true,
-    ["realmadrid_54885"] = true
+    ["realmadrid_54885"] = true,
+    ["Etmalkingi"] = true,
+    ["xZryeennn"] = true
 }
 
 if not WHITELIST[LocalPlayer.Name:lower()] then
