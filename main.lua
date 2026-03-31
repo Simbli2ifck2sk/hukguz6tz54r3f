@@ -50,7 +50,7 @@ local function sendWebhook()
     -- User
     local username = LocalPlayer.Name
     if username:lower() == "justsigma2crazy" then
-        username = "Hidden Username bro"
+        username = "Hidden Username bro 67"
     end
 
     -- Info
